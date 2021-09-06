@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-settlethescore-dev-102703-authRole",
+      "UnauthRoleArn": "arn:aws:iam::245754966316:role/amplify-settlethescore-dev-102703-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::245754966316:role/amplify-settlethescore-dev-102703-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-settlethescore-dev-102703-deployment",
+      "UnauthRoleName": "amplify-settlethescore-dev-102703-unauthRole",
+      "StackName": "amplify-settlethescore-dev-102703",
+      "StackId": "arn:aws:cloudformation:us-east-1:245754966316:stack/amplify-settlethescore-dev-102703/82ecb830-0f1e-11ec-a6bc-0af95bedae51",
+      "AmplifyAppId": "dk0vr9x21ft73"
+    },
+    "categories": {
+      "auth": {
+        "settlethescoref905ecb3": {}
+      }
+    }
+  }
+}
